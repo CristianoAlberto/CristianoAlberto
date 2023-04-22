@@ -6,9 +6,9 @@
 
  
 
-:computer: I'm Front-End Developer!
+:computer: I'm Back-End Developer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Angola.
 
 :books: I’m currently learning everything.
 
@@ -18,9 +18,9 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CristianoAlberto)](https://github.com/CristianoAlberto)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/cristiano-alberto-5bb09023a/)]( https://www.linkedin.com/in/cristiano-alberto-5bb09023a/)
 
 - Thanks for visiting.
 
