@@ -20,7 +20,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CristianoAlberto)](https://github.com/CristianoAlberto)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/cristiano-alberto-5bb09023a/)]( https://www.linkedin.com/in/cristiano-alberto-5bb09023a/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiano-alberto-5bb09023a)](https://www.linkedin.com/in/cristiano-alberto-5bb09023a)
 
 - Thanks for visiting.
 
@@ -32,7 +32,7 @@
 
 (Cristiano Alberto) = Hellen.
 
-LINK_GIT = https://github.com/hellenmas.
+LINK_GIT = https://github.com/CristianoAlberto.
 
 💾Aqui está alguns itens que você pode adicionar ao seu arquivo README para torná-lo mais atraente:
 
