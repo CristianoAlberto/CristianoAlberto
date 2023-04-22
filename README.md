@@ -30,7 +30,7 @@
 
 *OBS onde está escrito em maiúsculo você deve escrever suas informações:
 
-(Cristiano Alberto) = Hellen.
+(Cristiano Alberto) = Cristiano.
 
 LINK_GIT = https://github.com/CristianoAlberto.
 
@@ -47,7 +47,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 *OBS Já deixei uma pronta abaixo.
 
-<code><img height= "20" src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={username}"></code>
+<code><img  src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={CristianoAlberto}"></code>
 
 <code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 
