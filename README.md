@@ -7,7 +7,7 @@
 
 :books: I'm currently studying web development but I'm open to new research.
 
-:outbox_tray: 2025 Goals: Improve my skills and study new technologies.
+:outbox_tray: 2026 Goals: Improve my skills and study new technologies.
 
 ## My social networks 💻
 
