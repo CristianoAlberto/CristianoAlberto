@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C9A7&width=600&lines=Hi+there!+I'm+Cristiano+Alberto+%F0%9F%91%8B%F0%9F%8F%BE;Back-End+Developer+%F0%9F%92%BB;Angola+%F0%9F%87%A6%F0%9F%87%B4)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C9A7&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Cristiano+Alberto+%F0%9F%91%8B%F0%9F%8F%BE;Back-End+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ---
 
@@ -60,8 +62,8 @@
 
 <div align="center">
 
-![Cristiano's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CristianoAlberto&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoAlberto&theme=tokyonight&layout=compact&hide_border=true)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=CristianoAlberto&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoAlberto&theme=tokyonight&layout=compact&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CristianoAlberto&theme=tokyo-night&hide_border=true"/>
 
 </div>
