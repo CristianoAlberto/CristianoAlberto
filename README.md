@@ -5,8 +5,7 @@
 ---
 
 🖥️ I'm a **Back-End Developer** focused on building robust and scalable systems  
-🏡 Based in **Angola**  
-📚 Computer Science student, always open to learning new technologies  
+📚 Always open to learning new technologies  
 🎯 **2026 Goals:** To improve my skills and master new technologies.
 
 ---
